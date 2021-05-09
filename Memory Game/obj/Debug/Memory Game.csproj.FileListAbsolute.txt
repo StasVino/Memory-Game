@@ -1,0 +1,10 @@
+E:\School\GitHub\Memory Game\bin\Debug\Memory Game.exe.config
+E:\School\GitHub\Memory Game\bin\Debug\Memory Game.exe
+E:\School\GitHub\Memory Game\bin\Debug\Memory Game.pdb
+E:\School\GitHub\Memory Game\obj\Debug\Memory Game.csprojResolveAssemblyReference.cache
+E:\School\GitHub\Memory Game\obj\Debug\Memory_Game.FormGameOver.resources
+E:\School\GitHub\Memory Game\obj\Debug\Memory_Game.GameSetUp.resources
+E:\School\GitHub\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+E:\School\GitHub\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.Cache
+E:\School\GitHub\Memory Game\obj\Debug\Memory Game.exe
+E:\School\GitHub\Memory Game\obj\Debug\Memory Game.pdb
