@@ -1,4 +1,4 @@
-# Snooker-game-tracking
+# Memory Game
 **About**
 The goal of this project is create a windowed application of a memory game, with multipul board configuration, image cards, player versus player and player vs ai.
 
