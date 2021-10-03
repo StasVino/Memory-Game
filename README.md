@@ -4,6 +4,7 @@ The goal of this project is create a windowed application of a memory game, with
 
 
 **The Methods**
+
 We use C# built in window form class
 * bottom action is dictated by events
 * the picture cards are pulled from 
