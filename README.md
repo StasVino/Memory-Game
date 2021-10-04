@@ -7,7 +7,7 @@ The goal of this project is create a windowed application of a memory game, with
 
 We use C# built in window form class
 * bottom action is dictated by events
-* the picture cards are pulled from 
+* the picture cards are pulled from https://picsum.photos/id/
 * game logic is separate to the application and can be applied to diffrent frames
 * ai logic works by remembering the last few reveals and utilazing that memory in current reveals
 
