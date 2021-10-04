@@ -6,10 +6,12 @@ The goal of this project is create a windowed application of a memory game, with
 **The Methods**
 
 We use C# built in window form class
-* bottom action is dictated by events
-* the picture cards are pulled from https://picsum.photos/id/
-* game logic is separate to the application and can be applied to diffrent frames
-* ai logic works by remembering the last few reveals and utilazing that memory in current reveals
+* GameManager - a windows form that manages the game/turns, the UI, bottoms-events, activates all other classes  
+* GameLogic - the class the game is played on, stores the current game data and dectates game logic, 
+* GameButton - a class inheriting a button controller, modifide to include pictures
+* AILogic - in charge of Ai memory and picture picking logic
+
+other miscellaneous classes play minor roles as game actors, such as Coordinate, player, FormGameSetup and FormGameOver  
 
 **Results**
 
